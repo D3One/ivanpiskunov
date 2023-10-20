@@ -1,5 +1,5 @@
 # Ivan Piskunov
-Cyber security expert, company founder, book's author, lector, speaker, contributor 
+**Cyber security expert, company founder, book's author, lector, speaker, contributor **
 
 ## WhoAMi
 Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. Master degree of computer science (STEM), have got over 15 years experience in cyber security Industry, including 4 last year in software development company. Also had passed professional certificates - AWS, Google, Microsoft, Cisco, EC-Council.  Multiple winner of IT competitions. Besides it Ivan is entrepreneur (launched security line products) and business partner of international holding and co-owner cyber security startup
@@ -56,8 +56,4 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 [![Twitter](https://ssl.gstatic.com/atari/images/sociallinks/twitter_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fivanpiskunov14&sa=D&sntz=1&usg=AOvVaw1NYO3xkOxO1mMco-sf5hsD) [![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivan-piskunov&sa=D&sntz=1&usg=AOvVaw1p9DHTvNyeRKL72sDzSNMP) [![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)
 
 
-
-
-
-
-                                                                                                                        Personal page by  Ivan Piskunov (c) 2023
+                                                                                                   **Personal page by  Ivan Piskunov (c) 2023**
