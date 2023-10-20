@@ -37,11 +37,13 @@ Reverse Challenge  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   
 
 # Education courses author and lector
 
-Linux Security   ||   Web security for beginner   ||   Penetration test from scratch    ||   Incidents response for managers   ||   CentOS security and administration    ||    Digital Forensic for newbies   ||   Anti-DDoS and network security  
+Linux Security   ||   Web security for beginner   ||   Penetration test from scratch    ||   Incidents response for managers   
+CentOS security and administration    ||    Digital Forensic for newbies   ||   Anti-DDoS and network security  
 
 # University lector and mentor
 
-Irkutsk State Linguistic University (branch of Moscow State Linguistic University)   ||   Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   ||   IT Planet technical olympiad (mentor)
+Irkutsk State Linguistic University (branch of Moscow State Linguistic University)   ||   Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   
+||   IT Planet technical olympiad (mentor)
 
 # Self-development 
 
