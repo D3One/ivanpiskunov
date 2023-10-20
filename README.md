@@ -22,10 +22,16 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # The books
 
-Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3), [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
+Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
 
 # Speaker  
-PHDays 2017 || PHDays 2018 || CISO Forum 2020 || Skolkovo CyberSecDay 2017 || Cyber Security Forum 2018 ||  CryptoEvent RIW 2019 European Digital Innovation & Start-Up Summit 2020  ||  BlackHat 2021 USA (applicant)
++ PHDays 2017 
++ PHDays 2018  
++ CISO Forum 2020
++ Skolkovo CyberSecDay 2017
++ Cyber Security Forum 2018 
++ CryptoEvent RIW 2019 European Digital Innovation & Start-Up Summit 2020  
++ BlackHat 2021 USA (applicant)
 
 # Competitions and CTF
 
