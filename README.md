@@ -2,7 +2,7 @@
 Cyber security expert, company founder, book's author, lector, speaker, contributor 
 
 ## WhoAMi
-Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. Master degree of computer science (STEM), have got over 15 years experience in cyber security Industry, including 4 last year in software development company. Also had passed professional certificates - AWS, Google, Microsoft, Cisco, EC-Council.  Multiple winner of IT competitions. Besides it Ivan is entrepreneur (launched security line products) and business partner of international holding and  co-owner cyber security startup
+Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. Master degree of computer science (STEM), have got over 15 years experience in cyber security Industry, including 4 last year in software development company. Also had passed professional certificates - AWS, Google, Microsoft, Cisco, EC-Council.  Multiple winner of IT competitions. Besides it Ivan is entrepreneur (launched security line products) and business partner of international holding and co-owner cyber security startup
 
 # Telegram channels
 
@@ -25,13 +25,11 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3), [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
 
 # Speaker  
-PHDays 2017   ||  PHDays 2018   ||  CISO Forum 2020   || Skolkovo CyberSecDay 2017   || Cyber Security Forum 2018   ||  CryptoEvent RIW 2019
-
-European Digital Innovation & Start-Up Summit 2020   ||   BlackHat 2021 USA (applicant)
+PHDays 2017 || PHDays 2018 || CISO Forum 2020 || Skolkovo CyberSecDay 2017 || Cyber Security Forum 2018 ||  CryptoEvent RIW 2019 European Digital Innovation & Start-Up Summit 2020  ||  BlackHat 2021 USA (applicant)
 
 # Competitions and CTF
 
-Reverse Challenge   ||   Cr@zy Gek$ member   ||   Safe hacking   ||    Tesla PwN
+Reverse Challenge  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   Tesla car PwN
 
 # Personal projects
 
@@ -62,9 +60,4 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 
 
 
-
-
-
-
-
-                                                                                                                                                                        Personal page by  Ivan Piskunov (c) 2023
+                                                                                                                        Personal page by  Ivan Piskunov (c) 2023
