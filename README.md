@@ -25,6 +25,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
 
 # Speaker  
+
 + PHDays 2017 
 + PHDays 2018  
 + CISO Forum 2020
@@ -43,13 +44,19 @@ Reverse Challenge  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   
 
 # Education courses author and lector
 
-Linux Security   ||   Web security for beginner   ||   Penetration test from scratch    ||   Incidents response for managers   
-CentOS security and administration    ||    Digital Forensic for newbies   ||   Anti-DDoS and network security  
++ Linux Security  
++ Web security for beginner    
++ Penetration test from scratch     
++ Incidents response for managers   
++ CentOS security and administration    
++ Digital Forensic for newbies  
++ Anti-DDoS and network security  
 
 # University lector and mentor
 
-Irkutsk State Linguistic University (branch of Moscow State Linguistic University)   ||   Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   
-||   IT Planet technical olympiad (mentor)
++ Irkutsk State Linguistic University (branch of Moscow State Linguistic University)  
++ Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   
++ IT Planet technical olympiad (mentor)
 
 # Self-development 
 
@@ -63,5 +70,4 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 
 [![Twitter](https://ssl.gstatic.com/atari/images/sociallinks/twitter_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fivanpiskunov14&sa=D&sntz=1&usg=AOvVaw1NYO3xkOxO1mMco-sf5hsD) [![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivan-piskunov&sa=D&sntz=1&usg=AOvVaw1p9DHTvNyeRKL72sDzSNMP) [![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)
 
-
-                                                                                Personal page by Ivan Piskunov (c) 2023
+Personal page by Ivan Piskunov (c) 2023
