@@ -71,3 +71,5 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 [![Twitter](https://ssl.gstatic.com/atari/images/sociallinks/twitter_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fivanpiskunov14&sa=D&sntz=1&usg=AOvVaw1NYO3xkOxO1mMco-sf5hsD) [![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivan-piskunov&sa=D&sntz=1&usg=AOvVaw1p9DHTvNyeRKL72sDzSNMP) [![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)
 
 Personal page by Ivan Piskunov (c) 2023
+
+<!-- This is commented out. -->
