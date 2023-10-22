@@ -72,4 +72,4 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 
 Personal page by Ivan Piskunov (c) 2023
 
-<!-- This is commented out. -->
+<!-- Ivan Piskunov, Piskunov, cybersecurity, security, DevSecOps, malware, PHDays, w2hack -->
