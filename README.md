@@ -14,7 +14,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # Personal blogs
 
-[BlogSpot](https://ipiskunov.blogspot.com/)  ||  [SecurityLab](http://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/)  ||  [Medium](https://ivanpiskunov.medium.com/) || [Telegra.ph](https://www.google.com/search?q=site%3Atelegra.ph+w2hack&oq=site%3Atelegra.ph+w2hack&aqs=chrome..69i57j69i58.10418j0j4&sourceid=chrome&ie=UTF-8)
+[BlogSpot](https://ipiskunov.blogspot.com/)  ||  [SecurityLab](http://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/)  ||  [Medium](https://ivanpiskunov.medium.com/) || [Telegra.ph](https://www.google.com/search?q=site%3Atelegra.ph+w2hack&oq=site%3Atelegra.ph+w2hack&aqs=chrome..69i57j69i58.10418j0j4&sourceid=chrome&ie=UTF-8)  ||  [Dev.to](https://dev.to/d3one)
 
 # Publications
 
