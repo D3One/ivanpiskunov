@@ -24,6 +24,10 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
 
+# Professional community
+
+[Quora](https://www.quora.com/profile/Ivan-Piskunov-Cyber-Security-Eye) ||  [Reddit](https://www.reddit.com/u/Accomplished-Rub4422) ||  [StackOverflow](https://stackoverflow.com/users/16764760/ivan-cyber-security-eye)
+
 # Speaker  
 
 + PHDays 2017 
