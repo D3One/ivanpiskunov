@@ -68,7 +68,7 @@ w2hack podcast   ||   Men's Inspire (collection of records, notes, posts)
 
 # Volunteering
 
-Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent immigration  and refugee support
+Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent immigration and refugee support
 
 ![](https://lh3.googleusercontent.com/2ESaJD0h7eRGrF4JmnZaLb5ABccsBygOOot6tyGDOIUR1h1H9HKqrFt-KWzEfMFh-_EuQfozW_RE1Dhry-peBlRDADBPNhtwZoKt2Q7wi5XIuUuiOPtfjqLN0SjzL2Qttw=w1280)
 
