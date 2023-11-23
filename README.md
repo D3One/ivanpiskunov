@@ -35,8 +35,13 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 + CISO Forum 2020
 + Skolkovo CyberSecDay 2017
 + Cyber Security Forum 2018 
-+ CryptoEvent RIW 2019 European Digital Innovation & Start-Up Summit 2020  
++ CryptoEvent RIW 2019
++ European Digital Innovation & Start-Up Summit 2020  
 + BlackHat 2021 USA (applicant)
+
+# TV interview
+
+Cyber tech Week  || CBC TV Azerbaijan
 
 # Competitions and CTF
 
