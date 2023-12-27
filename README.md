@@ -10,7 +10,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # GitHub
 
-[GitHub project](https://github.com/D3One/) 
+[GitHub project](https://github.com/D3One/) ||  [K8s book repository](https://github.com/IvanPiskunov/K8s_security_book) 
 
 # Personal blogs
 
@@ -22,7 +22,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # The books
 
-Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)
+Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)  ||   [(Self)Education. Research, facts, best practices](https://drive.google.com/file/d/1eL66xqc7h2iGw-bXeU1WcgdFSgS1GU-Z/view?usp=sharing) 
 
 # Professional community
 
