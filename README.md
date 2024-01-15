@@ -40,13 +40,13 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 + European Digital Innovation & Start-Up Summit 2020  
 + BlackHat 2021 USA (applicant)
 
-# TV interview
+# TV and Mass media interview
 
-Cyber tech Week  || CBC TV Azerbaijan
+Cyber tech Week  || CBC TV Azerbaijan  ||  [The Insider](The Insider)
 
 # Competitions and CTF
 
-Reverse Challenge  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   Tesla car PwN
+Reverse Challenge 2017  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   Tesla car PwN
 
 # Personal projects
 
