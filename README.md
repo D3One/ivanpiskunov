@@ -42,7 +42,7 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 
 # TV and Mass media interview
 
-Cyber tech Week  || CBC TV Azerbaijan  ||  [The Insider](The Insider)
+Cyber tech Week  || CBC TV Azerbaijan  ||  [The Insider](https://theins.ru/news/268180)
 
 # Competitions and CTF
 
