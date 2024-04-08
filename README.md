@@ -14,7 +14,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
    <a href="https://www.facebook.com/iv14piskunov">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook=blue" alt="Facebook Badge"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)">
+  <a href="https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
