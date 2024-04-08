@@ -7,7 +7,8 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # Social media
 
-![ ]( )      ![ ](https://www.example.com/image.jpg)   ![ ](https://www.example.com/image.jpg)![twitter logo_icon](https://github.com/D3One/ivanpiskunov/assets/44296554/9d3783ef-d351-4658-8cd2-b476c0f4f5e6)
+![ ]( )      ![ ](https://www.example.com/image.jpg)   ![ ](https://www.example.com/image.jpg)
+![twitter logo_icon]()
 
 
 # Telegram channels
