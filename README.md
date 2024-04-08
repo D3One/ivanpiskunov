@@ -4,18 +4,18 @@
 ## WhoAMi
 Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. Master degree of computer science (STEM), have got over 15 years experience in cyber security Industry, including 4 last year in software development company. Also had passed professional certificates - AWS, Google, Microsoft, Cisco, EC-Council.  Multiple winner of IT competitions. Black Hat USA applicant. Besides it Ivan is entrepreneur (launched security line products) and business partner of international holding and co-owner cyber security startup
 
-
-# Social media
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/ivan-piskunov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://twitter.com/Ivanpiskunov14">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="[https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Ivanpiskunov14">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://">
+    <img src="https://https://img.shields.io/twitter?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
