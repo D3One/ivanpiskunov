@@ -47,14 +47,15 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 
 # Speaker  
 
-+ PHDays 2017 
-+ PHDays 2018  
-+ CISO Forum 2020
++ [PHDays 2017](https://www.youtube.com/watch?v=tX6ZOiKrFPQ)
++ [PHDays 2018](https://www.youtube.com/watch?v=uo009iKUT-k)  
++ [CISO Forum 2020](https://www.youtube.com/watch?v=DmxmQ5nYPCg)
 + Skolkovo CyberSecDay 2017
 + Cyber Security Forum 2018 
 + CryptoEvent RIW 2019
-+ European Digital Innovation & Start-Up Summit 2020  
-+ BlackHat 2021 USA (applicant)
++ Developers meetup 2020
++ [European Digital Innovation & Start-Up Summit 2020](https://ditech.media/wdw/eudiss/ivan-piskunov/)
++ [BlackHat 2021 USA](https://www.blackhat.com/us-21/) (applicant)
 
 # TV and Mass media interview
 
@@ -68,7 +69,7 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 [Ethical hacker for kids](https://sites.google.com/view/hack2you)   ||   [Cyber security risk management](https://sites.google.com/view/risk2sec/)   
 
-# Education courses author and lector (by SkillBox, OTUS, HackerU, IT Academy, NTC)
+# Education courses author and lector (by SkillBox, [OTUS](https://otus.ru/nest/post/803/), [HackerU](https://theoryandpractice.ru/presenters/50192-ivan-piskunov/courses), IT Academy, B-152, NTC)
 
 + Linux Security  
 + Web security for beginner    
@@ -84,13 +85,17 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 + Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   + [list of lectors](https://mospolytech.ru/contest-pps/export_userdata.php)
 + IT Planet technical olympiad (mentor)
 
+# Mass media
+
+[How to sratk like a hacker](https://www.youtube.com/watch?v=C3nBSxbG5uY)    || [Secmag interview](https://securitymedia.org/articles/interview/ivan-piskunov-nezavisimyy-ekspert-kiberbezopasnost-eto-ne-konechnyy-rezultat-a-postoyannyy-protsess.html)      || [Interview by Ksrnia Shudrova](https://www.securitylab.ru/blog/personal/shudrova/347951.php)      ||   [Freelance paltfrom](https://freelance.habr.com/freelancers/zelot4)   ||  [Habr best collection](https://habr.com/ru/companies/eaeconsult/articles/731446/)
+
 # Self-development 
 
-w2hack podcast   ||   Men's Inspire (collection of records, notes, posts)
+[w2hack podcast](https://t.me/w2hack/6197)   ||   Men's Inspire (collection of records, notes, posts)
 
 # Volunteering
 
-Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent immigration and refugee support
+[Open lections "Cyber Security"](https://audit2sec.timepad.ru/event/806007/)   ||   [Diploma consulting](https://t.me/w2hack/185)   ||    Talent immigration and refugee support
 
 ![](https://lh3.googleusercontent.com/2ESaJD0h7eRGrF4JmnZaLb5ABccsBygOOot6tyGDOIUR1h1H9HKqrFt-KWzEfMFh-_EuQfozW_RE1Dhry-peBlRDADBPNhtwZoKt2Q7wi5XIuUuiOPtfjqLN0SjzL2Qttw=w1280)
 
