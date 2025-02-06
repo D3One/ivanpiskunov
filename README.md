@@ -28,6 +28,10 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 [GitHub project](https://github.com/D3One/)   ||    [K8s book repository](https://github.com/IvanPiskunov/K8s_security_book) 
 
+# LinkedIn and Twitter
+
+[Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)   ||    [Twitter (X)](https://x.com/ivanpiskunov14)
+
 # Personal blogs
 
 [BlogSpot](https://ipiskunov.blogspot.com/)  ||  [SecurityLab](http://www.securitylab.ru/blog/personal/Informacionnaya_bezopasnost_v_detalyah/)  ||  [Medium](https://ivanpiskunov.medium.com/) || [Telegra.ph](https://www.google.com/search?q=site%3Atelegra.ph+w2hack&oq=site%3Atelegra.ph+w2hack&aqs=chrome..69i57j69i58.10418j0j4&sourceid=chrome&ie=UTF-8)  ||  [Dev.to](https://dev.to/d3one)  ||  [InfoSec Exchange](https://infosec.exchange/@IvanPiskunov)
@@ -87,11 +91,15 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 # Mass media
 
-[How to sratk like a hacker](https://www.youtube.com/watch?v=C3nBSxbG5uY)    || [Secmag interview](https://securitymedia.org/articles/interview/ivan-piskunov-nezavisimyy-ekspert-kiberbezopasnost-eto-ne-konechnyy-rezultat-a-postoyannyy-protsess.html)      || [Interview by Ksrnia Shudrova](https://www.securitylab.ru/blog/personal/shudrova/347951.php)      ||   [Freelance paltfrom](https://freelance.habr.com/freelancers/zelot4)   ||  [Habr best collection](https://habr.com/ru/companies/eaeconsult/articles/731446/)
+[How to sratk like a hacker](https://www.youtube.com/watch?v=C3nBSxbG5uY)    ||  [Secmag interview](https://securitymedia.org/articles/interview/ivan-piskunov-nezavisimyy-ekspert-kiberbezopasnost-eto-ne-konechnyy-rezultat-a-postoyannyy-protsess.html)      ||   [Interview by Ksrnia Shudrova](https://www.securitylab.ru/blog/personal/shudrova/347951.php)      ||    [Freelance paltfrom](https://freelance.habr.com/freelancers/zelot4)    ||    [Habr best collection](https://habr.com/ru/companies/eaeconsult/articles/731446/)
 
 # Self-development 
 
 [w2hack podcast](https://t.me/w2hack/6197)   ||   Men's Inspire (collection of records, notes, posts)
+
+# Author's brochures  (outside Cybersecurity an IT)
+
+[(Self)Learning. Research, facts and best practices](https://lnkd.in/eEm45k8v)   ||   [Zero 2 Hero. A Chance for a Better Life Given by Cybersecurity](https://t.me/w2hack/6793)
 
 # Volunteering
 
