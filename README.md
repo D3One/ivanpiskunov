@@ -30,7 +30,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # LinkedIn and Twitter
 
-[Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)   ||    [Twitter (X)](https://x.com/ivanpiskunov14)
+[Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)     ||      [Twitter (X)](https://x.com/ivanpiskunov14)
 
 # Personal blogs
 
@@ -47,7 +47,7 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 
 # Professional community
 
-[Quora](https://www.quora.com/profile/Ivan-Piskunov-Cyber-Security-Eye) ||  [Reddit](https://www.reddit.com/u/Accomplished-Rub4422) ||  [StackOverflow](https://stackoverflow.com/users/16764760/ivan-cyber-security-eye)
+[Quora](https://www.quora.com/profile/Ivan-Piskunov-Cyber-Security-Eye) ||  [Reddit](https://www.reddit.com/u/Accomplished-Rub4422) ||  [StackOverflow](https://stackoverflow.com/users/16764760/ivan-cyber-security-eye)  ||   Ubunty community   ||    [RISSPA](https://www.linkedin.com/company/risspa/)
 
 # Speaker  
 
@@ -58,6 +58,7 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 + Cyber Security Forum 2018 
 + CryptoEvent RIW 2019
 + Developers meetup 2020
++ HackToLive 2021
 + [European Digital Innovation & Start-Up Summit 2020](https://ditech.media/wdw/eudiss/ivan-piskunov/)
 + [BlackHat 2021 USA](https://www.blackhat.com/us-21/) (applicant)
 
@@ -99,7 +100,11 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 # Author's brochures  (outside Cybersecurity an IT)
 
-[(Self)Learning. Research, facts and best practices](https://lnkd.in/eEm45k8v)   ||   [Zero 2 Hero. A Chance for a Better Life Given by Cybersecurity](https://t.me/w2hack/6793)
+[(Self)Learning. Research, facts and best practices](https://lnkd.in/eEm45k8v)      ||      [Zero 2 Hero. A Chance for a Better Life Given by Cybersecurity](https://t.me/w2hack/6793)
+
+# Projects
+
+["Business Park" start-up accelerator and technology incubator](https://krokit.org/)     ||     [Special Guest Stanford University](https://www.linkedin.com/posts/ivan-piskunov_%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%82-activity-7263762785786859520-B1Ip/)
 
 # Volunteering
 
