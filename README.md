@@ -64,13 +64,13 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 
 # Advisory Board Member
 
-[Xakep e-zine](https://xakep.ru/)    ||   [Public House "Reglament"](https://reglament.net/editions)   ||   OTUS e-learning
+[Xakep e-zine](https://xakep.ru/)    ||   [Public House "Reglament"](https://reglament.net/editions) 
 
 # TV and Mass media interview
 
 [Cyber tech Week](https://www.youtube.com/watch?v=OFwrpD2rSKk)  || [CBC TV Azerbaijan](https://www.youtube.com/channel/UC0tSbzhYGtLtm8V58t-GT4g)  ||  [The Insider](https://theins.ru/news/268180)
 
-# Competitions and CTF
+# Competitions and CTF, War Games
 
 Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blogspot.com/p/ctf-crazy-geek.html)  ||  Safe hacking  ||   [Tesla car PwN](https://xakep.ru/2017/11/30/zn2017-results/)
 
@@ -96,13 +96,13 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 # Mass media
 
-[How to sratk like a hacker](https://www.youtube.com/watch?v=C3nBSxbG5uY)    ||  [Secmag interview](https://securitymedia.org/articles/interview/ivan-piskunov-nezavisimyy-ekspert-kiberbezopasnost-eto-ne-konechnyy-rezultat-a-postoyannyy-protsess.html)      ||   [Interview by Ksrnia Shudrova](https://www.securitylab.ru/blog/personal/shudrova/347951.php)      ||    [Freelance paltfrom](https://freelance.habr.com/freelancers/zelot4)    ||    [Habr best collection](https://habr.com/ru/companies/eaeconsult/articles/731446/)
+[How to start like a hacker](https://www.youtube.com/watch?v=C3nBSxbG5uY)    ||  [Secmag interview](https://securitymedia.org/articles/interview/ivan-piskunov-nezavisimyy-ekspert-kiberbezopasnost-eto-ne-konechnyy-rezultat-a-postoyannyy-protsess.html)      ||   [Interview by Ksrnia Shudrova](https://www.securitylab.ru/blog/personal/shudrova/347951.php)      ||    [Freelance paltfrom](https://freelance.habr.com/freelancers/zelot4)    ||    [Habr best collection](https://habr.com/ru/companies/eaeconsult/articles/731446/)
 
 # Self-development 
 
 [w2hack podcast](https://t.me/w2hack/6197)   ||   Men's Inspire (collection of records, notes, posts)
 
-# Author's brochures  (outside Cybersecurity an IT)
+# Author's brochures  (outside Cybersecurity and IT areas)
 
 [(Self)Learning. Research, facts and best practices](https://lnkd.in/eEm45k8v)      ||      [Zero 2 Hero. A Chance for a Better Life Given by Cybersecurity](https://t.me/w2hack/6793)
 
@@ -112,7 +112,7 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 # Volunteering
 
-[Open lections "Cyber Security"](https://audit2sec.timepad.ru/event/806007/)   ||   [Diploma consulting](https://t.me/w2hack/185)   ||    Talent immigration and refugee support
+[Open lections "Cyber Security"](https://audit2sec.timepad.ru/event/806007/)   ||   [Diploma consulting](https://t.me/w2hack/185)   ||    Talent immigration and refugee support   ||  Fitness well-being
 
 ![](https://lh3.googleusercontent.com/2ESaJD0h7eRGrF4JmnZaLb5ABccsBygOOot6tyGDOIUR1h1H9HKqrFt-KWzEfMFh-_EuQfozW_RE1Dhry-peBlRDADBPNhtwZoKt2Q7wi5XIuUuiOPtfjqLN0SjzL2Qttw=w1280)
 
@@ -120,4 +120,4 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 Personal page by Ivan Piskunov (c) 2025
 
-<!-- Ivan Piskunov, Piskunov, cybersecurity, security, DevSecOps, malware, PHDays, w2hack, USA, EB-1A, NASA, DARPA, Black Hat, AppSec, CISO, Expat -->
+<!-- Ivan Piskunov, Piskunov, cybersecurity, security, DevSecOps, malware, PHDays, w2hack, USA, EB-1A, NASA, DARPA, Black Hat, AppSec, CISO, Expat, Пискунов, SecOps -->
