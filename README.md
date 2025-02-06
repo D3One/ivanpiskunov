@@ -28,7 +28,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 [GitHub project](https://github.com/D3One/)   ||    [K8s book repository](https://github.com/IvanPiskunov/K8s_security_book) 
 
-# LinkedIn and Twitter
+# LinkedIn and Twitter (X)
 
 [Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)     ||      [Twitter (X)](https://x.com/ivanpiskunov14)
 
@@ -61,6 +61,10 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 + HackToLive 2021
 + [European Digital Innovation & Start-Up Summit 2020](https://ditech.media/wdw/eudiss/ivan-piskunov/)
 + [BlackHat 2021 USA](https://www.blackhat.com/us-21/) (applicant)
+
+# Advisory Board Member
+
+[Xakep e-zine](https://xakep.ru/)    ||   [Public House "Reglament"](https://reglament.net/editions)   ||   OTUS e-learning
 
 # TV and Mass media interview
 
@@ -102,7 +106,7 @@ Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blog
 
 [(Self)Learning. Research, facts and best practices](https://lnkd.in/eEm45k8v)      ||      [Zero 2 Hero. A Chance for a Better Life Given by Cybersecurity](https://t.me/w2hack/6793)
 
-# Projects
+# Initiatives
 
 ["Business Park" start-up accelerator and technology incubator](https://krokit.org/)     ||     [Special Guest Stanford University](https://www.linkedin.com/posts/ivan-piskunov_%F0%9D%90%92%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%82-activity-7263762785786859520-B1Ip/)
 
