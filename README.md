@@ -22,7 +22,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # Telegram channels
 
-[White 2 Hack](https://t.me/w2hack)  ||  [Cyber Security Bastion](https://t.me/+lM-z1s7354Y1NmEy)  ||  [W2H Storage](https://t.me/w2h_storage) 
+[White 2 Hack](https://t.me/w2hack)  ||  [Cyber Security Bastion](https://t.me/+lM-z1s7354Y1NmEy)  ||  [W2H Storage](https://t.me/w2h_storage)   ||  CyberSecWay
 
 # GitHub
 
@@ -58,17 +58,17 @@ Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www
 
 # TV and Mass media interview
 
-Cyber tech Week  || CBC TV Azerbaijan  ||  [The Insider](https://theins.ru/news/268180)
+[Cyber tech Week](https://www.youtube.com/watch?v=OFwrpD2rSKk)  || [CBC TV Azerbaijan](https://www.youtube.com/channel/UC0tSbzhYGtLtm8V58t-GT4g)  ||  [The Insider](https://theins.ru/news/268180)
 
 # Competitions and CTF
 
-Reverse Challenge 2017  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||   Tesla car PwN
+Reverse Challenge 2017  ||  [Cr@zy Gek$ CTF-team member](https://ipiskunov.blogspot.com/p/ctf-crazy-geek.html)  ||  Safe hacking  ||   [Tesla car PwN](https://xakep.ru/2017/11/30/zn2017-results/)
 
 # Personal projects
 
 [Ethical hacker for kids](https://sites.google.com/view/hack2you)   ||   [Cyber security risk management](https://sites.google.com/view/risk2sec/)   
 
-# Education courses author and lector
+# Education courses author and lector (by SkillBox, OTUS, HackerU, IT Academy, NTC)
 
 + Linux Security  
 + Web security for beginner    
@@ -81,7 +81,7 @@ Reverse Challenge 2017  ||  Cr@zy Gek$ CTF-team member  ||  Safe hacking  ||
 # University lector and mentor
 
 + Irkutsk State Linguistic University (branch of Moscow State Linguistic University)  
-+ Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   
++ Moscow Polytechnic University IT Worldskills Russia Cup (mentor)   + [list of lectors](https://mospolytech.ru/contest-pps/export_userdata.php)
 + IT Planet technical olympiad (mentor)
 
 # Self-development 
@@ -96,6 +96,6 @@ Open lections "Cyber Security"   ||   Diploma consulting   ||    Talent imm
 
 [![Twitter](https://ssl.gstatic.com/atari/images/sociallinks/twitter_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fivanpiskunov14&sa=D&sntz=1&usg=AOvVaw1NYO3xkOxO1mMco-sf5hsD) [![LinkedIn](https://ssl.gstatic.com/atari/images/sociallinks/linkedin_white_28dp.png)](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivan-piskunov&sa=D&sntz=1&usg=AOvVaw1p9DHTvNyeRKL72sDzSNMP) [![YouTube](https://ssl.gstatic.com/atari/images/sociallinks/youtube_white_28dp.png)](https://www.youtube.com/channel/UC3eh6dBcJGXwCVT4n9XxFBQ/videos)
 
-Personal page by Ivan Piskunov (c) 2023
+Personal page by Ivan Piskunov (c) 2025
 
-<!-- Ivan Piskunov, Piskunov, cybersecurity, security, DevSecOps, malware, PHDays, w2hack -->
+<!-- Ivan Piskunov, Piskunov, cybersecurity, security, DevSecOps, malware, PHDays, w2hack, USA, EB-1A, NASA, DARPA, Black Hat, AppSec, CISO, Expat -->
