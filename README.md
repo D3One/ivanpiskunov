@@ -30,7 +30,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # LinkedIn and Twitter (X)
 
-[Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)     ||      [Twitter (X)](https://x.com/ivanpiskunov14)
+[Ivan Piskunov](https://www.linkedin.com/in/ivan-piskunov/)     ||      [Twitter (X)](https://x.com/ivanpiskunov14)    ||      [LinkedIn articles (analytics)](https://www.linkedin.com/in/ivan-piskunov/recent-activity/articles/)
 
 # Personal blogs
 
