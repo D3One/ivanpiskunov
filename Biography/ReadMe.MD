@@ -22,10 +22,11 @@ After working for several years at various software development companies, he be
  - 2017 – 2019: Informal supervisor of pre-diploma internships and diploma projects, consultant to dozens of students from various Russian universities studying information security
  - 2021 Author of the English-language book "Kubernetes Security: Guide for Beginners from Zero to Hero", available on Amazon Kindle dn Gumroad platform
  - 2018 – 2021 Author of several training courses, lecturer at commercial educational institutions like as Academy IT, HackerU, Skillbox, NTC, OTUS
- - 2022 – Immigration to Europe as an expat, leadership in the field of information security for an international financial exchange project
- - 2023 Publication of a brochure (Russian language)
- - 2024 Publication of the English version of the author's brochure
+ - 2022 – Immigration to Europe as an expat, leadership cybersecurity operations for an international financial exchange project
+ - 2023 Publication of a brochure "Иван Пискунов | (Само)обучение. Исследования, факты и лучшие практики" (Russian language)
+ - 2024 Release of the English version of the author's brochure "Ivan Piskunov | (Self-)learning. Research, facts, and best practices "
  - 2025 Launch of analytical blogs on several platforms: SubStack (), VK (), X (), on topics not directly related to cybersecurity
+
 
 
 
