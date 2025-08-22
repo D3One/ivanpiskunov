@@ -52,4 +52,24 @@ After working for several years at various software development companies, he be
 
 
 
+<!-- Ivan Piskunov, Piskunov, cybersecurity, security, cyber, DevSecOps, malware, PHDays, ZeroNights, Hyngary, expat, w2hack, white2hack, USA, EB-1A, NASA, DARPA, Black Hat, AppSec, CISO, product security, EU, relocate, immigration, startup, KrokIT, e-learning, Пискунов, Иван Пискунов, Иван, Москва, Иркутcк, Irkutsk, Moscow, Los Angeles, SecOps -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
