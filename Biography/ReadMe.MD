@@ -9,9 +9,9 @@
 After working for several years at various software development companies, he began to work closely with Kubernetes (K8s) and actively immerse himself in DevOps security issues, resulting in the publication of his book **“Kubernetes security. Guide for beginners from zero to hero”**[2] in mid-2021, written entirely in English. At the same time, he launched another author's blog aimed at Western readers on Medium[4], and then on Dev.to[9] and Security Exchange[10]. Under Ivan's guidance, several students successfully defended their theses at the Irkutsk branch of Moscow State Linguistic University (2014) and Moscow Polytechnic University (2020). <br>
 
 ## Awards and Achievements
-> - PHDays 2017, sole winner of the CarPWN competition (hacking Tesla car electronics)
-> - Kaspersky CrackMe Challenge 2017 – 3rd place (reverse engineering of a test sample containing malicious code)
-> - ZeroNight 2017, winner of the “Safe Hacking” competition as part of a team (opening an analog safe lock without using brute force tools)
+ - PHDays 2017, sole winner of the CarPWN competition (hacking Tesla car electronics)
+ - Kaspersky CrackMe Challenge 2017 – 3rd place (reverse engineering of a test sample containing malicious code)
+ - ZeroNight 2017, winner of the “Safe Hacking” competition as part of a team (opening an analog safe lock without using brute force tools)
 > - 2016–2017 Hacker magazine, author of the only series of articles at that time in the Russian-language segment of the Internet on the topic of “Reverse Engineering of Malicious Software”
 > - 2017/2018 academic year – winner in the “Best Teacher” category, Department of Information Security, Moscow Polytechnic University
 > - 2018 Hacker magazine, the first series of articles in the Russian-language segment of the Internet on digital forensics and cybercrime investigation 
@@ -19,6 +19,7 @@ After working for several years at various software development companies, he be
 > - 2017–2019: Informal supervisor of pre-diploma internships and diploma projects (VKR), consultant to dozens of students from various Russian universities studying information security
 > - 2021 Author of the English-language book Kubernetes Security: Guide for Beginners from Zero to Hero, available on Amazon Kindle
 > - 2018–2021 Author of several training courses, lecturer at educational institutions
+
 
 
 
