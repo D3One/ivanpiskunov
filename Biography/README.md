@@ -9,7 +9,7 @@
 After working for several years at various software development companies, he began to work closely with Kubernetes (K8s) and actively immerse himself in DevOps security issues, resulting in the publication of his book **“Kubernetes security. Guide for beginners from zero to hero”** [2] in mid-2021, written entirely in English. At the same time, he launched another author's blog aimed at enternaitional community on Medium [4], and then on Dev.to [9] and Security Exchange [10]. Under Ivan's guidance, several students successfully defended their theses at the Irkutsk branch of Moscow State Linguistic University (2014) and Moscow Polytechnic University (2020). <br>
 
 ## Certificates and Professional Communities
-- 2012: VipNet 3.2 Certifated Administrator 
+- 2012: VipNet 3.2 Certified Administrator 
 - 2013: Member of ex-Russian Information Systems Security Professional Association (RISSPA)
 - 2013: Microsoft Certified Systems Administrator (MCSA)
 - 2013: GNU\Linux Administrator (equal level by LPIC-1)
@@ -68,6 +68,7 @@ After working for several years at various software development companies, he be
 
 
 <!-- Ivan Piskunov, Piskunov, cybersecurity, security, cyber, DevSecOps, malware, PHDays, ZeroNights, Hyngary, expat, w2hack, white2hack, USA, EB-1A, NASA, DARPA, Black Hat, AppSec, CISO, product security, EU, relocate, immigration, startup, KrokIT, e-learning, Пискунов, Иван Пискунов, Иван, Москва, Иркутcк, Irkutsk, Moscow, Los Angeles, SecOps -->
+
 
 
 
