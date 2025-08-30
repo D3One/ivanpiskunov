@@ -42,11 +42,11 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # Publications
 
-[Xakep e-zine](https://xakep.ru/author/g14vano/) || [Hackmag e-zine](https://hackmag.com/author/g14vano) || [Cryptomathic](https://www.cryptomathic.com/news-events/blog/author/ivan-piskunov-guest)  ||  [CyberLeninka](https://cyberleninka.ru/scientist/71597) || [Future Banking](https://futurebanking.ru/profile/17472) || [Anti-malware](https://www.anti-malware.ru/users/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B8%D1%81%D0%BA%D1%83%D0%BD%D0%BE%D0%B2/publications) || [SlideShare](https://www.slideshare.net/IvanPiskunov/presentations)
+[Xakep e-zine](https://xakep.ru/author/g14vano/) || [Hackmag e-zine](https://hackmag.com/author/g14vano) || [Cryptomathic](https://web.archive.org/web/20210126022349/https://www.cryptomathic.com/news-events/blog/author/ivan-piskunov-guest)  ||  [CyberLeninka](https://cyberleninka.ru/scientist/71597) || [Future Banking](https://futurebanking.ru/profile/17472) || [Anti-malware](https://www.anti-malware.ru/users/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B8%D1%81%D0%BA%D1%83%D0%BD%D0%BE%D0%B2/publications) || [SlideShare](https://www.slideshare.net/IvanPiskunov/presentations)
 
 # The books
 
-Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || DevSecOps Notes Box  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)  
+Kubernetes security. Guide for beginners from zero to hero ([Amazon](https://www.amazon.com/Kubernetes-security-Guide-beginners-zero-ebook/dp/B096B934J3) [Gumroad](https://ivan14piskunov.gumroad.com/l/k8security)) || [DevSecOps Notes Box](https://github.com/D3One/DevSecOps-Notes-Box)  ||  [Pentest. Secrets of Ethical Hacking](https://www.ukazka.ru/catalog/book-pentest-sekrety-etichnogo-vzloma-883006.html)  
 ||   [(Self)Education. Research, facts, best practices](https://drive.google.com/file/d/1eL66xqc7h2iGw-bXeU1WcgdFSgS1GU-Z/view?usp=sharing) 
 
 # Professional community
