@@ -42,7 +42,7 @@ Ivan Piskunov is an ethical hacker, independent expert, researcher and seeker. M
 
 # Publications
 
-[Xakep e-zine](https://xakep.ru/author/g14vano/) || [Hackmag e-zine](https://hackmag.com/author/g14vano/) || [Cryptomathic](https://www.cryptomathic.com/news-events/blog/author/ivan-piskunov-guest)  ||  [CyberLeninka](https://cyberleninka.ru/scientist/71597) || [Future Banking](https://futurebanking.ru/profile/17472) || [Anti-malware](https://www.anti-malware.ru/users/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B8%D1%81%D0%BA%D1%83%D0%BD%D0%BE%D0%B2/publications) || [SlideShare](https://www.slideshare.net/IvanPiskunov/presentations)
+[Xakep e-zine](https://xakep.ru/author/g14vano/) || [Hackmag e-zine](https://hackmag.com/author/g14vano) || [Cryptomathic](https://www.cryptomathic.com/news-events/blog/author/ivan-piskunov-guest)  ||  [CyberLeninka](https://cyberleninka.ru/scientist/71597) || [Future Banking](https://futurebanking.ru/profile/17472) || [Anti-malware](https://www.anti-malware.ru/users/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%B8%D1%81%D0%BA%D1%83%D0%BD%D0%BE%D0%B2/publications) || [SlideShare](https://www.slideshare.net/IvanPiskunov/presentations)
 
 # The books
 
