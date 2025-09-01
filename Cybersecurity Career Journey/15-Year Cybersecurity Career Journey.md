@@ -3,6 +3,8 @@
 ## TL;DR
 A story of relentless (self)learning, certifications, mastering different cybersecurity domains (Malware, Pentesting, DevSecOps, AppSec), and the mindset shifts that led me from a rookie in Irkutsk to launching my own tech startup.
 
+## [SEE ORIGINAL POST AT DEV.TO]()
+
 ## What is this article about?
 This isn't just my story; it's a roadmap. I'm sharing my journey, complete with proof and resources, to show you what's possible with dedication and to offer guidance for your own path.
 
@@ -14,4 +16,4 @@ Work pays off, dreams become reality! This story is like a spark in the darkness
 **I HAVE DONE IT - YOU CAN TOO!**
 
 ## Teaser
-Begin the great journey with me: Newbie -> Expert -> Manager -> Leader -> Startup Founder. Take the best from my experience. Learn from my mistakes and failures. Don't give up, keep going, and you will reach your goal!
+Begin the great journey with me: **Newbie** -> **Expert** -> **Manager** -> **Leader** -> **Startup Founder**. Take the best from my experience. Learn from my mistakes and failures. Don't give up, keep going, and you will reach your goal!
