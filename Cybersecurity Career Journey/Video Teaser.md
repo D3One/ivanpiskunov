@@ -3,7 +3,7 @@
 
 ## Watch the video
 
-[![WATCH THE VIDEO ON YOUTUBE](https://img.youtube.com/vi/HKVp5g_ohwo/0.jpg)](https://www.youtube.com/watch?v=HKVp5g_ohwo)
+[![WATCH THE VIDEO ON YOUTUBE](https://img.youtube.com/vi/HKVp5g_ohwo/4.jpg)](https://www.youtube.com/watch?v=HKVp5g_ohwo)
 
 
 
