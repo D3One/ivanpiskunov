@@ -62,7 +62,9 @@ After working for several years at various software development companies, he be
 
 Under Ivan's guidance, several students successfully defended their theses at the Irkutsk branch of Moscow State Linguistic University (2014) and Moscow Polytechnic University (2020). <br>
 
-![line chapter separator](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xcjf9byx9vv91uet9s50.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xcjf9byx9vv91uet9s50.png" />
+</p>
 
 ### Certificates and Professional Communities
 
@@ -452,7 +454,9 @@ I'm incredibly grateful to my father, who gave me the right mindset. He showed m
 
 My father installed that crucial mindset in me, which was a major wake-up call. By the time I got to university, my approach to learning was completely different from how it was in school. I became seriously dedicated. I saw my education as a chance to become a true professional—a sought-after expert. It was my path to earning a good living and, ultimately, achieving the dreams I held in my heart.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j15il73gh4oixrbts4hc.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j15il73gh4oixrbts4hc.png" />
+</p>
 
 **The Bottom Line:**
 
@@ -479,7 +483,9 @@ Here’s what I want to say: It doesn't matter if you're a top-tier professional
 
 Value the time you have. As Steve Jobs said, **_“If today were the last day of my life, would I want to do what I am about to do today?”_** Ask yourself that question every morning. Listen to your gut. And go do what you're here to do!
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hgszhclvcsbaitxminv.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hgszhclvcsbaitxminv.png" />
+</p>
 
 **Insights**
 
