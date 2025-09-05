@@ -273,7 +273,9 @@ This early experience laid the crucial foundation for the continuation of my tea
 - Be a T-Shaped Person: Develop broad knowledge (the top of the T) but go deep in one or two areas first (the leg of the T).
 - Share Your Knowledge: Start writing, even if it's just for your blog. It builds reputation.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### **Phase 3: The Evolution - Shifting Left (DevSecOps engineer, AppSec handler, SecChamp, and later a Product Security Manager)**
 
