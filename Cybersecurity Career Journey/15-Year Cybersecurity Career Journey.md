@@ -104,7 +104,9 @@ Under Ivan's guidance, several students successfully defended their theses at th
 
 ## My Career Journey
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/spt2rbkov9y13u9tg8zk.png)
 
@@ -137,7 +139,9 @@ I bought books, downloaded articles, read blogs by well-known infosec experts _(
 - Move to a big city, a technology center, without wasting your time in a smaller town
 - Bet on self-education. Read blogs, forums, books, watch videos on YouTube, create your own labs for training
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### **Phase 2: The Specialist - Becoming a Recognized Expert (The Moscow Leap)**
 
@@ -350,7 +354,9 @@ And I realized that a new stage in my life was beginning, something I had been w
 - Immigrate if you have the opportunity, don't waste time
 - Create content, generate value, give more and you will receive more
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### **Phase 4: The Leadership - The CISO Role**
 
@@ -389,7 +395,9 @@ And after COVID-19, the dispersion, mass layoffs, economic and political sanctio
 - Grow in position (not only in depth) vertically. Take on leadership positions
 - Create a financial cushion, set aside at least 10% for your business, because the market is unstable and you can lose your job
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### **Phase 5: The Ultimate Test - The Startup Leap**
 
@@ -428,7 +436,9 @@ I always had the idea of a startup, my own business, in my head, but being busy 
 - Study new areas (marketing, presentations, communications, recruitment, financial management)
 - Managerial skills (communications, financial literacy, recruitment) and business qualities (privacy, integrity, respect, compliance with agreements) are more important than technical knowledge
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### The Unremarkable Beginning
 
@@ -455,7 +465,9 @@ And all you ever have is now._**
 
 And by the way, I want to be clear about something: Despite all the scripts I've written, the KS8-Shield project I developed, and the countless shell scripts I've created to automate Linux routines, I don't consider myself a developer. I'm not a naturally gifted programmer. My process was simple: I surrounded myself with textbooks, manuals, how-to guides, cheat sheets, and checklists. I wrote tons of code, then debugged it for hours—sometimes hunting for a single error all night—until I finally got it working. I don't have any special talents; I just made up for it with hard work.
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png" />
+</p>
 
 ### The Point of No Return
   
