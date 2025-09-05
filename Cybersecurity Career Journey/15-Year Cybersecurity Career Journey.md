@@ -483,7 +483,9 @@ Value the time you have. As Steve Jobs said, **_“If today were the last day of
 
 **_Now... go make it happen. Sing that song! Write it! Build it_**
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)
+<p align="center">
+  <img src="(https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbaruz990iwwu4ulogh.png)" />
+</p>
 
 ### **Conclusion: The Journey Never Ends**
 
@@ -502,6 +504,8 @@ My journey continues too. And perhaps soon I will tell about it in my new public
 
 _**Let's stay in touch!**_
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpszn36zfkgg9qi510gw.png)
+<p align="center">
+  <img src="(https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpszn36zfkgg9qi510gw.png)" />
+</p>
 
 ---
