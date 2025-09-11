@@ -3,7 +3,9 @@
 
 Here are 20 questions designed to evaluate a candidate's foundational knowledge, critical thinking, and adherence to professional standards in digital forensics.
 
-<img width="1602" height="796" alt="image" src="https://github.com/user-attachments/assets/314f9767-28d0-4a40-9748-f2fce6ea27a1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/314f9767-28d0-4a40-9748-f2fce6ea27a1" />
+</p>
 
 #### 1. **The Forensic Mindset**
 **Question:** Beyond technical tools, what is the core mindset or methodological approach a digital forensics investigator must adopt to ensure their findings are reliable, defensible, and admissible? Name and describe three key pillars of this approach.
