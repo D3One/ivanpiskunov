@@ -11,7 +11,7 @@ The **Defcon 2019 Digital Forensics and Incident Response (DFIR) Capture The Fla
 - - -
 
 <p align="center">
-  <img src="hhttps://github.com/user-attachments/assets/1c29df6a-da7a-4512-9225-cd1282594467" />
+  <img src="https://github.com/user-attachments/assets/1c29df6a-da7a-4512-9225-cd1282594467" />
 </p>
 
 ## 1. ✅ Establishing Evidence Integrity: SHA1 Hash
