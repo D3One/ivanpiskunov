@@ -1,7 +1,9 @@
 
 ## **EZDump - A Linux Memory Forensics Deep Dive**
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f2ab90e4-ca2c-4716-97e8-972af04207fa" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2ab90e4-ca2c-4716-97e8-972af04207fa" />
+</p>
 
 #### **1. Introduction: The Challenge of Linux Memory Analysis**
 
