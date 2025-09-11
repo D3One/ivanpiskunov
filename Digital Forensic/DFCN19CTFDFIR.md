@@ -4,7 +4,11 @@
 
 The **Defcon 2019 Digital Forensics and Incident Response (DFIR) Capture The Flag (CTF)** [challenge](https://defcon2019.ctfd.io/challenges), created by the Champlain College Digital Forensics Association and shared by David Cowen, provided a hands-on opportunity to practice memory forensics skills. This challenge involved analyzing a Windows memory dump (`Triage-Memory.mem`) to uncover evidence of cyber intrusion and malicious activity. Memory forensics is a critical branch of digital forensics that involves analyzing volatile data from a system's RAM to uncover artifacts such as running processes, network connections, and hidden data. This write-up details the technical process and methodologies used to solve the memory forensics questions, showcasing essential tools and techniques.
 
-### [Download the images](https://drive.google.com/drive/folders/1JwK8duNnrh12fo9J_02oQCz8HlILKAdW)
+## [Download the images](https://drive.google.com/drive/folders/1JwK8duNnrh12fo9J_02oQCz8HlILKAdW)
+
+## [All images](https://www.dropbox.com/scl/fo/4wi8n7fm01yfcbwv4nom5/AIO_qWCQRyjl9-QtLa70wrE?rlkey=4uu6og3vph3rth8lp1ap86f9c&e=1&dl=0)
+
+- - -
 
 <img width="2104" height="2104" alt="image" src="https://github.com/user-attachments/assets/1c29df6a-da7a-4512-9225-cd1282594467" />
 
