@@ -5,7 +5,9 @@
 
 This repository serves as a comprehensive collection of my practical work, notes, and analytical exercises in **digital forensics and incident response (DFIR)**. Created during my professional training and self-study journey, it encapsulates hands-on investigations, command references, forensic methodology implementations, and technical write-ups from various forensic scenarios. Initially intended as a personal knowledge base, I've open-sourced these materials to help others entering the field and to contribute to the DFIR community.
 
-<img width="620" height="269" alt="image" src="https://github.com/user-attachments/assets/ff6ef186-7a6c-4219-b643-fc7773db6966" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff6ef186-7a6c-4219-b643-fc7773db6966" />
+</p>
 
 ---
 
