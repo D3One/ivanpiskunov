@@ -3,6 +3,8 @@
 
 Here are 27 technical questions to assess a candidate's practical knowledge of digital forensics tools and methodologies.
 
+<img width="1456" height="816" alt="image" src="https://github.com/user-attachments/assets/1519c242-c702-421b-a43b-06d5df024d59" />
+
 #### 1. **The Foundation: Evidence Acquisition**
 **Question:** A client provides a powered-on Windows 10 laptop suspected of illicit activity. Describe the steps you would take to create a forensically sound disk image, including the tools and commands you would use. How would you verify the integrity of the acquired image?
 
