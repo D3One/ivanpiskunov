@@ -118,3 +118,7 @@ grep "flag" 3032.dmp.strings
 **Tool/Command:** Based on prior process analysis (e.g., `netscan`, `pstree`).  
 **Finding:** `3496` (PID of `UWkpjFjDzM.exe`)  
 **Significance:** Meterpreter is a common Metasploit payload for post-exploitation.
+
+--- 
+
+<img width="999" height="10647" alt="image" src="https://github.com/user-attachments/assets/ebe70d22-42b7-484f-bdd3-bacde10b2c57" />
