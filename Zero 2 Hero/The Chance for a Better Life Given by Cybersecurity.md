@@ -10,7 +10,9 @@ Furthermore, the booklet is packed with practical advice, actionable tips, and r
 
 Every kid dreams of becoming a legend—making it big, buying a house, moving somewhere new, starting a business, changing the world. Here’s the truth: **YOU** have what it takes to be that legend. Ivan’s story is living proof that opportunities are out there. It shows that everyone has the potential to build a fulfilling life, achieve financial security, and even make their own dent in the universe. **YOU are the opportunity!**
 
-<img width="655" height="922" alt="image" src="https://github.com/user-attachments/assets/66a595da-1428-40fe-9241-2c26da17db5f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66a595da-1428-40fe-9241-2c26da17db5f" />
+</p>
 
 ### **About the Extended Author’s Edition**
 
@@ -28,4 +30,6 @@ It’s about more than just becoming an expert or a top-tier specialist; it’s 
 
 **You**, the person reading this right now, **have the right to a life of dignity**. Your success will inspire many; your failure will help no one. **You are the opportunity!**
 
-<img width="656" height="924" alt="image" src="https://github.com/user-attachments/assets/5025b553-a243-4813-b634-f23f4186286b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5025b553-a243-4813-b634-f23f4186286b" />
+</p>
