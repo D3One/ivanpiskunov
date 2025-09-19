@@ -1,5 +1,7 @@
 ### A Detailed Analysis of the Salary Structure for IT Specialists in Silicon Valley
 
+<img width="1024" height="600" alt="image" src="https://github.com/user-attachments/assets/ef84fce2-6b17-4f90-abd9-d205f700e7d5" />
+
 **What are we going to talk about?**
 
 For our Friday fun topic, let's imagine that you have magically obtained a US work permit. You're ready to teleport to the heart of Mountain View after breakfast to instantly land a job at a major tech company and start earning your down payment for a house in Silicon Valley. But first, let's try to understand what a software developer's salary consists of, what's usually included in an IT specialist's benefits package, and what additional perks employees at large US tech companies receive. All this knowledge will come in handy to help you negotiate a better offer, live more comfortably, and save up for that house in the San Francisco suburbs faster.
@@ -9,6 +11,9 @@ If you find it easier to absorb information by listening or watching, especially
 ### The Three Main Components
 
 So, being a software development engineer in the US is a rather prestigious profession. Of course, they are not anesthesiologists, surgeons, orthodontists, dentists, physicians, pediatricians, or even pilots, who, according to official US Department of Labor statistics, earn significantly more than developers. But the latter group also has a much higher area of responsibility and associated risks.
+
+<img width="624" height="415" alt="image" src="https://github.com/user-attachments/assets/b216d33c-1b42-4455-bb21-3897257600c1" />
+
 
 First, you need to understand that the total amount your employer will pay you consists of three components:
 
@@ -32,7 +37,8 @@ This is the main salary component, which in turn is divided into three parts:
 2.  Where _Sbase_ is your base salary, _Kpos_ is your position coefficient (manager, developer, junior, middle, senior, team lead), _Kcomp_ is the company's performance coefficient for the past half-year, and _Kperf_ is the employee's personal performance coefficient, as indicated by your manager (which is why it's very important to have a good relationship with your boss).On average, an employee with a base salary of $100,000 receives an additional 20% bonus each year. A kind of thirteenth salary.
     
 3.  First, it is sometimes profitable for companies to offer a slightly lower base salary but attract a candidate with a bonus, which they receive almost immediately after starting work. But be careful: usually, when signing an employment contract, you also sign an agreement stating that if you leave the company within a certain period, you will have to repay the bonus. Therefore, working for just three months, getting the bonus, and then running off to another company, alas, will not work!Second, when leaving one company for another, you might lose RSUs (which we will discuss later). A sign-on bonus can help you negotiate compensation for those lost shares.
-    
+
+   <img width="1456" height="287" alt="image" src="https://github.com/user-attachments/assets/98c2e822-682b-4a6d-a59a-b5e0fc16f05e" />
 
 ### Now let's talk about "Non-cash"
 
