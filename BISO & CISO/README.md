@@ -3,6 +3,8 @@
 
 The evolving cyber threat landscape has reshaped organizational leadership structures, giving rise to specialized roles like the **Chief Information Security Officer (CISO)** and the **Business Information Security Officer (BISO)**. While both are critical for a robust security posture, they serve distinct but complementary functions.
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/d486450c-6a63-4db7-90d6-a51eb1e48f25" />
+
 #### **The CISO: The Strategic Architect**
 
 The **CISO** is an organization’s top-level executive responsible for the entire information security strategy. They align cybersecurity goals with broad business objectives, manage enterprise-wide risk, and communicate the security vision to the board, CEO, and other C-level executives. Their focus is strategic, overseeing the development and implementation of a comprehensive security program that protects the organization's digital assets.
