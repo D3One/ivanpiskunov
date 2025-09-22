@@ -5,8 +5,6 @@
 
 This comprehensive article examines the **technical and administrative controls** organizations must implement to meet the rigorous requirements of the SOC 2 (System and Organization Controls 2) compliance framework. Developed by the American Institute of Certified Public Accountants (AICPA), SOC 2 provides criteria for managing customer data based on five **Trust Services Criteria**: security, availability, processing integrity, confidentiality, and privacy. Unlike prescribed compliance frameworks, SOC 2 allows organizations to design customized controls that align with their specific operations while still meeting the framework's rigorous requirements. This paper details specific implementation measures across operating systems, network infrastructure, access management, data protection, and administrative policies, providing a roadmap for organizations seeking to achieve and maintain SOC 2 compliance. The article also differentiates between Type I and Type II reports, offering guidance on implementation strategies that satisfy the more comprehensive Type II requirements that examine operational effectiveness over time.
 
-<img width="705" height="454" alt="image" src="https://github.com/user-attachments/assets/5dce7316-95f7-43e1-aaae-7b8fae2c1a71" />
-
 ## 1 Introduction to SOC 2
 
 ### 1.1 What is SOC 2?
@@ -21,11 +19,15 @@ SOC 2 compliance provides significant **business advantages** beyond mere certif
 
 From an internal perspective, the process of achieving SOC 2 compliance helps organizations establish **mature security practices** and systematic risk management approaches. Companies that undergo the SOC 2 audit process typically identify gaps in their security posture, streamline documentation practices, and implement more consistent operational procedures . The framework encourages organizations to develop comprehensive security policies, implement rigorous access controls, and establish incident response protocols—all of which contribute to reduced security risks and potential cost savings from avoided data breaches .
 
+<img width="729" height="506" alt="image" src="https://github.com/user-attachments/assets/0149dc89-804d-4c38-a298-4abc0da50b59" />
+
 ### 1.3 Types of SOC 2 Reports
 
 Organizations pursuing SOC 2 compliance can obtain two different types of reports, each serving different purposes and providing varying levels of assurance:
 
 - **Type I**: This report evaluates the suitability of the **design of controls** at a specific point in time. It answers whether the organization has implemented appropriate controls that are properly designed to meet the Trust Services Criteria . Type I reports are typically faster to achieve and serve as a preliminary step toward full compliance, though many enterprise customers now prefer or require Type II reports .
+
+<img width="560" height="315" alt="image" src="https://github.com/user-attachments/assets/c7dc5ef9-2538-4216-9ac5-43e7d4276989" />
 
 - **Type II**: This more comprehensive report examines the **operational effectiveness** of controls over a period of time, typically ranging from 3 to 12 months . Type II reports provide greater assurance to customers and stakeholders as they demonstrate that controls not only exist but function effectively over time. Most organizations start with a Type I report and then progress to Type II, though increasingly companies are opting to go directly for Type II certification to meet customer expectations .
 
@@ -55,6 +57,8 @@ The SOC 2 framework is built upon five **Trust Services Criteria** (TSCs) that r
 
 - **Privacy**: The privacy principle addresses the system's collection, use, retention, disclosure, and disposal of **personal information** in conformity with an organization's privacy notice, as well as with criteria set forth in the AICPA's generally accepted privacy principles (GAPP) . Personal identifiable information (PII) refers to details that can distinguish an individual (e.g., name, address, Social Security number). Some personal data related to health, race, sexuality, and religion is considered sensitive and generally requires an extra level of protection .
 
+<img width="705" height="454" alt="image" src="https://github.com/user-attachments/assets/5dce7316-95f7-43e1-aaae-7b8fae2c1a71" />
+
 ### 2.2 Scope and Applicability
 
 SOC 2 compliance is particularly relevant for **service organizations** that process or store sensitive data on behalf of their clients. This includes SaaS companies, cloud computing providers, data centers, managed service providers, and any organization that handles customer data in cloud environments . The framework applies to both the technical infrastructure and organizational processes that support the security, availability, and processing integrity of customer data.
@@ -71,6 +75,8 @@ The scope of a SOC 2 examination is determined by the organization itself in con
 | **Managed Services** | Security, Availability, Confidentiality | Access management, incident response, monitoring |
 
 ## 3 Technical Implementation Measures
+
+<img width="1500" height="664" alt="image" src="https://github.com/user-attachments/assets/5266a545-d56d-4a5f-ae36-7b69c5c1c65e" />
 
 ### 3.1 Operating System Security
 
@@ -113,6 +119,8 @@ For critical systems, **high availability architectures** should be implemented 
 Backup encryption is mandatory for protecting confidential data in backup systems, with access to backup media strictly controlled and monitored . Organizations should implement immutable backup solutions where possible to protect against ransomware attacks that specifically target backup systems. Backup monitoring should include verification of backup completion, regular test restorations, and alerting for backup failures to ensure data protection measures remain effective over time.
 
 ## 4 Administrative Implementation Measures
+
+<img width="640" height="343" alt="image" src="https://github.com/user-attachments/assets/9da2311e-6838-4924-bfde-0364bd3da11e" />
 
 ### 4.1 Policy Development and Documentation
 
