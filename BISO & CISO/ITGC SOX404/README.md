@@ -10,6 +10,8 @@
 
 The Public Company Accounting Oversight Board (PCAOB) standards require auditors to evaluate how IT affects financial reporting controls and to test ITGC when they rely on automated controls or automated monitoring of manual controls. **COSIX audit model** (Create, Check, Approve) emphasizes the segregation of duties where one individual creates a transaction or change, another verifies its accuracy, and a third authorizes its implementation—a fundamental principle in SOX compliance . This model ensures proper **checks and balances** in financial processes and system changes, reducing the risk of errors and fraud .
 
+
+
 ## Key Components of ITGC
 
 ITGC encompass several categories of controls that collectively ensure the proper functioning of information systems:
@@ -29,6 +31,8 @@ Physical security controls protect IT assets from **unauthorized physical access
 ### 5. System Development Life Cycle (SDLC) Controls
 SDLC controls govern the **development, acquisition, and implementation** of new systems and applications . They include requirements gathering, design, development, testing, and implementation phases with appropriate controls at each stage to ensure systems meet business requirements and incorporate adequate controls .
 
+<img width="1044" height="696" alt="image" src="https://github.com/user-attachments/assets/935782e8-5e79-4291-b94f-f0147bc7f366" />
+
 ---
 
 ## ITGC Audit Process: Methodology and Approach
@@ -46,6 +50,8 @@ Auditors evaluate test results, identify **control deficiencies**, assess their 
 
 ### Phase 4: Remediation and Follow-up
 Management addresses identified deficiencies through **remediation plans**, and auditors perform follow-up procedures to verify the effectiveness of corrective actions .
+
+<img width="1024" height="417" alt="image" src="https://github.com/user-attachments/assets/bc3c12c8-28ab-4b11-8403-0e18320ef5b7" />
 
 ---
 
