@@ -3,6 +3,8 @@
 
 # Technical Requirements for GDPR Compliance in IT Systems
 
+<img width="885" height="405" alt="image" src="https://github.com/user-attachments/assets/81480a50-fa3e-40a1-980f-5fb43f1510bd" />
+
 ## 1 Introduction to GDPR and Its Technical Scope
 
 The **General Data Protection Regulation (GDPR)** (Regulation (EU) 2016/679) is a comprehensive data privacy law that applies to all organizations processing the personal data of individuals in the European Union (EU) and European Economic Area (EEA), regardless of the organization's location . For IT systems, this means that any infrastructure, application, or service that handles EU personal data must be designed and operated in compliance with the regulation's principles and articles.
