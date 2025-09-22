@@ -2,6 +2,9 @@
 
 # Integrating Security into Development: A Comprehensive Guide to DevSecOps Implementation
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/a35e50cc-6acf-41aa-936e-e5982ae5ae40" />
+
+
 ## **1. Introduction to DevSecOps: Beyond DevOps**
 
 **DevSecOps** represents a fundamental cultural and operational shift in software development, integrating security practices directly into the DevOps lifecycle. The term stands for **Development, Security, and Operations**, emphasizing that security is a shared responsibility across all teams involved in the software delivery process, not just a separate security team .
@@ -9,6 +12,8 @@
 Traditional software development models treated security as a final gatekeeping step, often performed by a separate team after development was complete. This approach created significant bottlenecks, especially with modern agile development cycles that release code frequently, sometimes multiple times per day. **DevSecOps addresses this by "shifting security left"**—embedding security considerations from the very beginning of the software development lifecycle (SDLC) .
 
 The core philosophy of DevSecOps is that everyone involved in software delivery shares responsibility for security. Development teams write secure code, operations teams implement secure infrastructure, and security teams provide tools, guidance, and oversight throughout the process. This collaborative approach enables organizations to deliver software rapidly without compromising security .
+
+<img width="1000" height="707" alt="image" src="https://github.com/user-attachments/assets/d6967aab-2726-4057-95fb-063e52b631f8" />
 
 ---
 
