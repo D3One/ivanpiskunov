@@ -2,6 +2,8 @@
 
 The hiring process in American companies is a structured, multi-stage journey that often differs significantly from practices in the EU and Russia/CIS regions. Understanding its nuances—from initial screening to legal requirements—is crucial for navigating it successfully. Here is a breakdown of key stages and characteristics:
 
+<img width="1200" height="851" alt="image" src="https://github.com/user-attachments/assets/ea96a292-3cfe-41a6-b28f-13737c43c394" />
+
 #### 1. **Application Screening and ATS**
    - **Applicant Tracking Systems (ATS)** are widely used to filter resumes. They scan for keywords, skills, and experience aligned with the job description. Up to 75% of applications are rejected by ATS before reaching a human .
    - **Resume Length**: U.S. resumes average 2.5–2.7 pages for technical roles, with content prioritized over strict length limits .
