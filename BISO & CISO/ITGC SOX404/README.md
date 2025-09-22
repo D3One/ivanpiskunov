@@ -10,7 +10,7 @@
 
 The Public Company Accounting Oversight Board (PCAOB) standards require auditors to evaluate how IT affects financial reporting controls and to test ITGC when they rely on automated controls or automated monitoring of manual controls. **COSIX audit model** (Create, Check, Approve) emphasizes the segregation of duties where one individual creates a transaction or change, another verifies its accuracy, and a third authorizes its implementation—a fundamental principle in SOX compliance . This model ensures proper **checks and balances** in financial processes and system changes, reducing the risk of errors and fraud .
 
-
+<img width="1598" height="796" alt="image" src="https://github.com/user-attachments/assets/63b434e4-3cd8-4d2c-9114-ec350059724b" />
 
 ## Key Components of ITGC
 
