@@ -5,6 +5,8 @@
 
 This comprehensive article examines the **technical and administrative controls** organizations must implement to meet the rigorous requirements of the SOC 2 (System and Organization Controls 2) compliance framework. Developed by the American Institute of Certified Public Accountants (AICPA), SOC 2 provides criteria for managing customer data based on five **Trust Services Criteria**: security, availability, processing integrity, confidentiality, and privacy. Unlike prescribed compliance frameworks, SOC 2 allows organizations to design customized controls that align with their specific operations while still meeting the framework's rigorous requirements. This paper details specific implementation measures across operating systems, network infrastructure, access management, data protection, and administrative policies, providing a roadmap for organizations seeking to achieve and maintain SOC 2 compliance. The article also differentiates between Type I and Type II reports, offering guidance on implementation strategies that satisfy the more comprehensive Type II requirements that examine operational effectiveness over time.
 
+<img width="705" height="454" alt="image" src="https://github.com/user-attachments/assets/5dce7316-95f7-43e1-aaae-7b8fae2c1a71" />
+
 ## 1 Introduction to SOC 2
 
 ### 1.1 What is SOC 2?
