@@ -1,4 +1,4 @@
----
+
 
 # CISO Glossary — executive-grade, security-led
 
