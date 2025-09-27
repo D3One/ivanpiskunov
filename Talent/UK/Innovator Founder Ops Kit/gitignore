@@ -1,0 +1,48 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+*.orig
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Node/JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+.turbo/
+.next/
+dist/
+build/
+coverage/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Archives & exports
+*.zip
+*.tar
+*.tar.gz
+
+# Cache
+.cache/
+*.log
+
+# Local evidence or private data (keep out of public repo)
+evidence/
+secrets/
