@@ -38,6 +38,9 @@ In opposition to "Struggle" (force, pressure, conquest) stands the concept of **
 
 This is the path of least resistance. It's the way of the diplomat who leads successful negotiations, not the conqueror with an army.
 
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/f1155ac9-da96-49d3-880d-3290d96a9f6e" />
+
+
 **Shifting Your Vector: From "Running From" to "Moving Toward"**
 ----------------------------------------------------------------
 
@@ -111,6 +114,8 @@ Don't answer me.
 Life is a game. You are the player. The mission is experience. The plot is malleable.
 
 You choose which path to take. No one is calling you or obligating you to do anything. You have a choice. Make it. There is no "wrong" decision.
+
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/a4fadafc-59a5-4a33-9273-0e90b53b19e5" />
 
 _**Is this the end of the publication? Or the beginning of your new journey?**_
 
