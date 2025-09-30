@@ -5,6 +5,8 @@
 
 The United States remains the world’s most dynamic large economy: it leads by absolute GDP, dominates global equity markets and venture formation, and maintains a uniquely deep innovation ecosystem powered by private‑sector R&D and research universities. A favorable business climate, global capital inflows, and the dollar’s reserve‑currency status reinforce this leadership. While America’s share of world output is likely to drift lower over time as Asia grows, the U.S. retains decisive advantages in productivity, innovation capacity, and financial depth, positioning it to stay the world’s economic center of gravity in the foreseeable future.
 
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/799695da-0370-4889-9638-56b4169db671" />
+
 ## The U.S. economy accounts for a quarter of global GDP
 
 In 2023, U.S. GDP reached $27.4 trillion[^1], ranking first worldwide. China, in second place, is almost $10 trillion smaller, and Russia’s economy is roughly 14 times smaller.
