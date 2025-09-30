@@ -2,6 +2,8 @@
 
 _What if the relentless grind and exhausting struggle aren't the only paths to success? For years, I championed the "self-made man" ethos, believing that achievement was born solely from pain and overcoming. But I discovered a more elegant, powerful way: the path of_ _**Allowance**__. This isn't about cheats or hacks; it's about understanding the fundamental mechanics of reality. It’s a shift from forcing outcomes to allowing them, transforming life from a battle for survival into a captivating game you are designed to win. This is the most important career—and life—lesson I've ever learned._
 
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/6a62e4e9-5919-4e8f-8fcc-77e350691c13" />
+
 **Introduction: A Departure from the Known**
 --------------------------------------------
 
@@ -17,6 +19,8 @@ For many years, I lived by the "self-made man" model: pain was the fuel for grow
 This path did make me who I am today. It tempered my character, developed specific skills, shaped my value system, set my priorities, and cleared my surroundings of the "crab bucket" mentality. This experience is invaluable to me. The contribution of this path deserves respect and honor. It's like a champion's belt, earned through pain, sweat, blood, countless trainings, limitations, and sacrifices. It is, unquestionably, a path for the strong.
 
 But I used to see it as the _only_ option for achieving the results I wanted. Through my search for answers, guided by mentors I met along the way, personal reflection, training, a vast library of books, testing hypotheses, and discussions with people of different mindsets and wealth, I finally realized: **It is not the only way.**
+
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/26d3ed4d-d984-451a-80df-608bf02771f7" />
 
 **The Trap of the "Struggle" Mindset**
 --------------------------------------
