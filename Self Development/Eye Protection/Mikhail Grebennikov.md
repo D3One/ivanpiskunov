@@ -6,11 +6,13 @@
 
 Mikhail Grebennikov is a Russian author and educator focused on **natural vision improvement**. According to his official course page, he began exploring ways to restore eyesight after early myopia, started systematic self-study in **2011**, and by **2014** reported raising his functional acuity from about *20%* to *90%*. Since then, he has been teaching vision-hygiene and training methods, publishing multiple books and online courses and documenting reader/student outcomes. 
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b957e705-a3d4-4c90-b99c-7ef5075818d0" />
+
 > Note: The author’s site cites years of personal experimentation, multiple courses, and books; details and counts vary across pages over time. 
 
 ---
 
-## Books (titles rendered in American English)
+## Books (titles rendered in English)
 
 > Originals are in Russian; English below are **faithful title translations** for README clarity. Where available, year reflects the platform listing.
 
