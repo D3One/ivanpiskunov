@@ -21,6 +21,7 @@ A technology budget should cover **all categories of expenses**:
 * **Contingency Funds** — reserves for unexpected issues (e.g., outages, urgent hiring).
 
 *Example 1:* A fintech startup underestimates compliance costs; when auditors arrive, emergency spending derails their burn rate. Proper budgeting would have included compliance as a fixed line item.
+
 *Example 2:* A SaaS company allocates 10% of the budget to ongoing developer training, ensuring engineers remain competitive in cloud-native tech.
 
 ---
@@ -45,6 +46,7 @@ A technology budget should cover **all categories of expenses**:
 *Practical Rule:* *If you are consistently 20% over budget in a category, you either underestimated or your execution plan is broken.*
 
 *Example 1:* DevOps costs spike due to inefficient Kubernetes scaling; CTO reallocates funds to hire an SRE to optimize usage.
+
 *Example 2:* Marketing pushes for an unplanned product demo → CTO must shift part of the R&D budget to cover rapid prototyping.
 
 ---
@@ -56,6 +58,7 @@ A technology budget should cover **all categories of expenses**:
 * **Speak the CFO’s language**: Avoid technical jargon; focus on business outcomes.
 
 *Example 1:* $50K spent on automated QA reduces bug-related downtime by 40%, improving customer satisfaction scores.
+
 *Example 2:* $100K investment in cloud cost optimization saves $250K annually, with ROI achieved in less than six months.
 
 ---
