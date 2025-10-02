@@ -1,4 +1,4 @@
-# Managing the Team
+# Managing the Team 👉 
 
 ## Big Idea
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 6.1 Team Charter
+## Team Charter
 
 **What it is:** A short, plain-English document that defines **purpose, scope, customers, resources, required skills, and key metrics** for the team. **Keep it concise.**   
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 6.2 Team Structure
+## Team Structure
 
 **Guiding principle:** **There is no one perfect structure.** Culture, temperament, business criticality, and customer proximity all shape what works. 
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 6.3 Titles & Levels
+## Titles & Levels
 
 **Why titles matter:** Titles shape expectations—internally and externally. They signal **responsibility, experience, pay band, and level in the hierarchy**; people *do* care about them. **Choose titles intentionally.**  
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 6.4 Working with the Team: Autonomy, Metrics, Accountability
+## Working with the Team: Autonomy, Metrics, Accountability
 
 **Autonomy:** Match **decision rights** to maturity. Early on, provide more guidance; as capabilities grow, **delegate architectural and process decisions** within guardrails. *Autonomy without clarity creates chaos; clarity without autonomy creates stagnation.*
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 6.5 1:1s (Индивидуальные встречи)
+##  1-to-1
 
 **Purpose:** Build trust, surface blockers early, and coach for growth. **Cadence matters**—*weekly or biweekly* is typical for fast-moving teams. Use a consistent agenda: progress, priorities, obstacles, feedback *both ways*, and development goals.
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 6.6 Learning & Development
+## Learning & Development
 
 **Build a portfolio of learning modes**—mix low-cost, high-frequency options with occasional deep dives:
 
@@ -111,7 +111,7 @@
 
 ---
 
-## 6.7 Communication
+## Communication
 
 **Default to written, durable channels for broad updates.** **Email** beats chat for information everyone must see and retrieve later. Maintain an **engineering@** mailing list and use it for policy/process changes, org updates, and major launches. *Chats are for real-time coordination; not for canonical announcements.* 
 
