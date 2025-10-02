@@ -1,4 +1,4 @@
-# 1.2 — Hiring & Interviewing
+# Hiring & Interviewing
 
 **Core idea (what the author argues):** Hiring is inherently uncertain—even “a world-class interview process is successful only about 70 percent of the time.” The antidote is a **structured, scalable system** that reduces bias, measures outcomes, and makes it possible for others to hire with the same quality you would. *Hire deliberately, track your success, and correct fast when it’s wrong.*  
 
@@ -45,11 +45,11 @@
 1. **Day-1 to Day-5 sprint:** *A new backend engineer* completes access, builds the dev environment, ships a small bugfix behind a flag, and writes a **PR checklist** update to the Guidebook. Result: PR merged by Day 3; docs improved immediately.  
 2. **Cross-team consistency:** *Frontend vs. Platform teams* share an identical **cultural intro + milestones format**, but each has specific “first tickets” and stack primers. Feedback surveys show higher perceived fairness and faster confidence ramp. 
 
-*Italic note:* *Don’t bury newcomers in unprioritized tickets; one curated starter task + a visible quick win beats a week of “reading”.*
+*Note:* *Don’t bury newcomers in unprioritized tickets; one curated starter task + a visible quick win beats a week of “reading”.*
 
 ---
 
-# 1.5 — Team Makeup
+#  Team Makeup
 
 **Core idea (what the author argues):** Composition should reflect your **problem mix**. Senior engineers produce **more durable, lower-defect solutions** across larger surfaces, but **not every project requires senior depth**. Choose seniority and specialization intentionally, then evolve it as scale increases.  
 
@@ -78,11 +78,11 @@
 1. **Brownfield rewrite:** *A startup with an 8-year monolith* prioritizes senior hires (BE lead, Staff DX) for 2 quarters, establishing patterns and CI/CD guardrails; follows with mid-level generalists to scale delivery. Outcome: defect rate down 40%, lead time down 30%. 
 2. **Post-Series A specialization:** *Team grows from 7→18.* They add **QA lead** and **DevOps** at 15 engineers, then split into **product-aligned pods** at 30, each cross-functional (PM, FE, BE, QA, partial DevOps). Incident MTTR halves after pod formation.  
 
-*Italic note:* *Revisit composition quarterly; hiring momentum can lock in the wrong mix if you don’t course-correct.*
+*Note:* *Revisit composition quarterly; hiring momentum can lock in the wrong mix if you don’t course-correct.*
 
 ---
 
-## Pull-quotes (short, compliant)
+## Pull-quotes
 
 * “Even a world-class interview process is successful only about 70 percent of the time.” 
 * “How can you hire a software engineer without having had them write code for you?” 
