@@ -1,5 +1,5 @@
 
-**Understanding the Kazarian Precedent in EB-1 Adjudications**
+# Understanding the Kazarian Precedent in EB-1 Adjudications
 
 U.S. Citizenship and Immigration Services (USCIS) frequently employs a two-part framework, established by the Ninth Circuit in *Kazarian v. USCIS*, to evaluate EB-1 "Extraordinary Ability" petitions . The first part is a procedural check, requiring a petitioner to objectively satisfy at least three of the ten regulatory criteria. The second part, often called the "final merits determination," is more holistic and subjective. It requires the adjudicator to assess whether the combined evidence, in its totality, demonstrates a level of expertise and recognition that places the beneficiary among the small percentage at the very top of their field .
 
@@ -13,7 +13,9 @@ A key strategy is to provide substantial corroborating evidence that not only me
 
 Another critical approach is to prepare a persuasive narrative that weaves all the evidence into a cohesive story for the "final merits determination." This narrative should demonstrate sustained national or international acclaim and show that the applicant's contributions are of "major significance" to their field. By understanding the nuances of Kazarian, we aim to maximize your chances of a successful outcome in the EB-1 category by preparing a thorough and well-documented petition.
 
-### 🔍 New Section: Practical Strategies for a Successful Petition
+***
+
+### 🔍 Practical Strategies for a Successful Petition
 
 Building a strong EB-1A petition requires strategic planning beyond simply checking boxes. The two-step *Kazarian* analysis means that your evidence must pass both the initial eligibility screening and the final, comprehensive assessment of your career stature . To succeed in the final merits determination, you must contextualize your achievements.
 
