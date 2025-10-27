@@ -29,12 +29,14 @@ Take this compass—you are the captain of your ship.
 # "NO LOOKING BACK"
 
 **[Intro]**
+
 Crossroads, seven lanes. Silence. Just the beat in my ears.
 It ain't handing out answers, it just lets me breathe free here.
 No more borrowed maps, no whispers from behind.
 Just me. And my pick. And the whole world aligned.
 
 **[Verse 1]**
+
 Remember how it started, bro? They handed me the script,
 Every step prewritten—pressed like leaves in a book that's stiff.
 Life was a gray design, end fixed from the start,
@@ -51,6 +53,7 @@ Something cracked in the silence—permafrost split in two,
 And I asked myself softly, **_"MAN, what do YOU wanna do?"_**
 
 **[Chorus]**
+
 I'm burning every bridge that was leading me wrong,
 Tearing up the tickets to rides where I don't belong.
 Storm is tearing pages, but I'm still the author,
@@ -62,6 +65,7 @@ Behind me only ashes from shackles I outgrew,
 My horizon's a blank page — for new worlds to draw through!
 
 **[Verse 2]**
+
 First step felt like a cliff-jump—no rope, no net in sight,
 Every instinct screaming, "Go back! That edge ain't right!"
 But the air of freedom hit—clean, sweet, and raw,
@@ -78,6 +82,7 @@ Let tomorrow stay unknown—no guarantee in sight,
 I trade stale "ever-after" for a billion ways to fight.
 
 **[Bridge]**
+
 They whispered, "Turn around. It's safer, softer there.
 You'll break on rocky edges, vanish in empty air."
 I heard 'em—but the fire inside kept burning brighter,
@@ -88,6 +93,7 @@ And the taste of that freedom? Sweeter than wine or honey.
 Worth every single risk. One of one—no money.
 
 **[Chorus]**
+
 I'm burning every bridge that was leading me wrong,
 Tearing up the tickets to rides where I don't belong.
 Storm is tearing pages, but I'm still the author,
@@ -99,6 +105,7 @@ Behind me only ashes from shackles I outgrew,
 My horizon's a blank page — for new worlds to draw through!
 
 **[Outro]**
+
 My path... A blank page...
 No borders. Just the sound of my steps.
 My road... Mine only...
