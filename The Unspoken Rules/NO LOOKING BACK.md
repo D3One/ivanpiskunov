@@ -30,10 +30,16 @@ Take this compass—you are the captain of your ship.
 
 **[Intro]**
 
+
 Crossroads, seven lanes. Silence. Just the beat in my ears.
+
 It ain't handing out answers, it just lets me breathe free here.
+
 No more borrowed maps, no whispers from behind.
+
 Just me. And my pick. And the whole world aligned.
+
+
 
 **[Verse 1]**
 
@@ -75,6 +81,7 @@ Tearing up the tickets to rides where I don't belong.
 Storm is tearing pages, but I'm still the author,
 
 I won't buy addresses that strangers offered.
+
 
 
 My compass is my heartbeat, my atlas is my soul,
@@ -145,6 +152,7 @@ Tearing up the tickets to rides where I don't belong.
 Storm is tearing pages, but I'm still the author,
 
 I won't buy addresses that strangers offered.
+
 
 
 My compass is my heartbeat, my atlas is my soul,
