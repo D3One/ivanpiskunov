@@ -38,71 +38,123 @@ Just me. And my pick. And the whole world aligned.
 **[Verse 1]**
 
 Remember how it started, bro? They handed me the script,
+
 Every step prewritten—pressed like leaves in a book that's stiff.
+
 Life was a gray design, end fixed from the start,
+
 And lemme tell ya—I was a puppet in their works of art.
+
 "Walk straight, don't question, listen to those who are older,"
+
 They hammered fake rules in, nails driven in my shoulder.
+
 So I marched, jaw locked, in a tight cage of "you ought,"
+
 Till my voice turned a whisper—almost erased to naught.
+
 I laid bricks for their castles, in concrete, dust, and strain,
+
 Forgot the beacons burning deep in my chest and brain.
+
 But one cold dawn in the mirror, sleep-heavy, blank as stone,
+
 I saw not me—but a shadow, trained to obey the tone.
+
 Something cracked in the silence—permafrost split in two,
+
 And I asked myself softly, **_"MAN, what do YOU wanna do?"_**
+
 
 **[Chorus]**
 
 I'm burning every bridge that was leading me wrong,
+
 Tearing up the tickets to rides where I don't belong.
+
 Storm is tearing pages, but I'm still the author,
+
 I won't buy addresses that strangers offered.
 
+
 My compass is my heartbeat, my atlas is my soul,
+
 I walk toward my light—unhurried, in control.
+
 Behind me only ashes from shackles I outgrew,
+
 My horizon's a blank page — for new worlds to draw through!
+
 
 **[Verse 2]**
 
 First step felt like a cliff-jump—no rope, no net in sight,
+
 Every instinct screaming, "Go back! That edge ain't right!"
+
 But the air of freedom hit—clean, sweet, and raw,
+
 Better than gilded comfort in a cramped, gold-plated maw.
+
 Suddenly the world lit up with colors I'd never seen,
+
 Turns out there's a hundred roads I used to paint obscene—
+
 'Cause I feared the weight of owning every bruise,
+
 Every win and every loss—no one else to choose.
+
 But that's where the power lives: when scars are yours alone,
+
 Each lesson bled and learned, carved in marrow and bone.
+
 Now I chase my sunrises, not where I was told to go,
+
 But where my spirit leads me—free, steady, and though
+
 Let tomorrow stay unknown—no guarantee in sight,
+
 I trade stale "ever-after" for a billion ways to fight.
+
 
 **[Bridge]**
 
 They whispered, "Turn around. It's safer, softer there.
+
 You'll break on rocky edges, vanish in empty air."
+
 I heard 'em—but the fire inside kept burning brighter,
+
 Lighting up my markers, making every sign look wider.
+
 'Cause freedom ain't chaos—it's the strictest measure,
+
 It's owning what you choose—your faith, your treasure.
+
 And the taste of that freedom? Sweeter than wine or honey.
+
 Worth every single risk. One of one—no money.
+
 
 **[Chorus]**
 
 I'm burning every bridge that was leading me wrong,
+
 Tearing up the tickets to rides where I don't belong.
+
 Storm is tearing pages, but I'm still the author,
+
 I won't buy addresses that strangers offered.
 
+
 My compass is my heartbeat, my atlas is my soul,
+
 I walk toward my light—unhurried, in control.
+
 Behind me only ashes from shackles I outgrew,
+
 My horizon's a blank page — for new worlds to draw through!
+
 
 **[Outro]**
 
